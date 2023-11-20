@@ -1,0 +1,18 @@
+C:\Users\IBUCOMP\AppData\Local\Temporary Projects\MenghitungUmur\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IBUCOMP\AppData\Local\Temporary Projects\MenghitungUmur\obj\x86\Debug\MenghitungUmur.Form1.resources
+C:\Users\IBUCOMP\AppData\Local\Temporary Projects\MenghitungUmur\obj\x86\Debug\MenghitungUmur.Properties.Resources.resources
+C:\Users\IBUCOMP\AppData\Local\Temporary Projects\MenghitungUmur\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IBUCOMP\AppData\Local\Temporary Projects\MenghitungUmur\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IBUCOMP\Documents\MenghitungUmur\MenghitungUmur\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IBUCOMP\Documents\MenghitungUmur\MenghitungUmur\obj\x86\Debug\MenghitungUmur.Form1.resources
+C:\Users\IBUCOMP\Documents\MenghitungUmur\MenghitungUmur\obj\x86\Debug\MenghitungUmur.Properties.Resources.resources
+C:\Users\IBUCOMP\Documents\MenghitungUmur\MenghitungUmur\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IBUCOMP\Documents\MenghitungUmur\MenghitungUmur\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MenghitungUmur\MenghitungUmur\MenghitungUmur\obj\x86\Debug\MenghitungUmur.csprojResolveAssemblyReference.cache
+E:\MenghitungUmur\MenghitungUmur\MenghitungUmur\obj\x86\Debug\MenghitungUmur.Form1.resources
+E:\MenghitungUmur\MenghitungUmur\MenghitungUmur\obj\x86\Debug\MenghitungUmur.Properties.Resources.resources
+E:\MenghitungUmur\MenghitungUmur\MenghitungUmur\obj\x86\Debug\MenghitungUmur.csproj.GenerateResource.Cache
+E:\MenghitungUmur\MenghitungUmur\MenghitungUmur\bin\Debug\MenghitungUmur.exe
+E:\MenghitungUmur\MenghitungUmur\MenghitungUmur\bin\Debug\MenghitungUmur.pdb
+E:\MenghitungUmur\MenghitungUmur\MenghitungUmur\obj\x86\Debug\MenghitungUmur.exe
+E:\MenghitungUmur\MenghitungUmur\MenghitungUmur\obj\x86\Debug\MenghitungUmur.pdb

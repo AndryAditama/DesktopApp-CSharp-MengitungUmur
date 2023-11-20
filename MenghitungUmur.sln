@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenghitungUmur", "MenghitungUmur\MenghitungUmur.csproj", "{B84D791F-797F-4983-971E-1CC4F11B226C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84D791F-797F-4983-971E-1CC4F11B226C}.Debug|x86.ActiveCfg = Debug|x86
+		{B84D791F-797F-4983-971E-1CC4F11B226C}.Debug|x86.Build.0 = Debug|x86
+		{B84D791F-797F-4983-971E-1CC4F11B226C}.Release|x86.ActiveCfg = Release|x86
+		{B84D791F-797F-4983-971E-1CC4F11B226C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
