@@ -1,0 +1,3 @@
+- program ini dibuat menggunakan bahasa C#
+- program ini digunakan untuk menghitung umur
+- dengan memasukkan tanggal lahir, maka program akan menghitung secara otomatis umur seseorang
